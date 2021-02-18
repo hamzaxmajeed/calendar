@@ -3,7 +3,7 @@ Calendar
 
 ## Libraries Required
 
-Input the following in <script> tags JavaScript and <link> tags for CSS.
+Place the following in script tags for JavaScript and link tags for CSS.
 
 ```
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js
